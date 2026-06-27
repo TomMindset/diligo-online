@@ -5,6 +5,11 @@ Statische Neuprogrammierung der bisherigen STRATO-Builder-Seite `https://diligo.
 ## Struktur
 
 - `index.html` - Startseite
+- `leistungen/index.html` - Beratungsfelder
+- `zielgruppen/index.html` - Entscheiderrollen und passende Organisationen
+- `vorgehen/index.html` - Beratungsprozess
+- `ueber-diligo/index.html` - Profil und Haltung
+- `insights/index.html` - Themen- und Artikelideen
 - `kontakt/index.html` - Kontaktseite mit Mailto-Formular
 - `impressum/index.html` - Impressum
 - `datenschutz/index.html` - Datenschutzhinweise fuer die statische Version
